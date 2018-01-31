@@ -1,0 +1,31 @@
+{
+  "name": "aerosol",
+  "version": "1.0.0",
+  "description": "Nuxt.js project",
+  "author": "Lorenzo Caldara <lorenzo.caldara@gmail.com>",
+  "private": true,
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "scripts": {
+    "dev": "PORT=3333 nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bulma": "^0.6.2",
+    "moment": "^2.20.1",
+    "node-sass": "^4.7.2",
+    "nuxt": "^1.0.0",
+    "nuxt-sass-resources-loader": "^1.1.0",
+    "sass-loader": "^6.0.6"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.15.0",
+    "eslint-friendly-formatter": "^3.0.0",
+    "eslint-loader": "^1.7.1",
+    "eslint-plugin-vue": "^4.0.0"
+  }
+}
