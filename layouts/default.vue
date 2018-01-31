@@ -14,14 +14,13 @@
                             <span></span>
                         </button>
                     </div>
-                </nav>
-                <!-- <nav class="navbar" role="navigation" aria-label="main navigation">
                     <div class="navbar-menu">
                         <div class="navbar-start">
-                            <a v-for="item in menuItems" class="navbar-item" v-bind:href="'/' + item.link" v-bind:class="item.isActive">{{item.name}}</a>
+                            <a class="navbar-item" href="https://www.misuratore-pressione.eu/" target="_blank">Misuratori di Pressione</a>
+                            <a class="navbar-item" href="https://www.aerosol-online.it/" target="_blank">Aerosol</a>
                         </div>
                     </div>
-                </nav> -->
+                </nav>
                 <section class="hero is-info is-bold">
                     <div class="hero-body">
                         <div class="container">
@@ -126,9 +125,6 @@
 .myMenu {
     img {
         max-height: 100%;
-    }
-    a {
-        letter-spacing: 0.35rem;
     }
 }
 </style>
