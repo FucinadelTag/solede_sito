@@ -25,6 +25,7 @@ module.exports = {
     ],
     plugins: [
         { src: '~plugins/iconFont.js', ssr: false },
+        { src: '~plugins/iubenda.js', ssr: false },
     ],
     loading: { color: '#3B8070' },
     build: {

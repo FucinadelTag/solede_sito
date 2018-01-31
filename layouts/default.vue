@@ -72,6 +72,7 @@
                         </p>
                         <section>
                             <form accept-charset="UTF-8" action="https://formkeep.com/f/5fb420fec4c8" method="POST">
+                                <input type="hidden" id="url_redirect" name="url_redirect" value="https://www.solede.com/grazie">
                                 <div class="field">
                                     <label class="label is-small">Email:</label>
                                     <p class="control">
@@ -111,7 +112,7 @@
                         </div>
                         <br>
                         <div>
-                                <a href="//www.iubenda.com/privacy-policy/369660" class="iubenda-white no-brand iubenda-embed" title="Privacy Policy">Privacy Policy</a>
+                                <a href="/privacy" title="Privacy Policy">Privacy Policy</a>
                         </div>
                     </div>
 
