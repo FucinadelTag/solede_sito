@@ -11,6 +11,17 @@
 
 <script>
 export default {
+    middleware: 'grazie_redirect',
+    mounted:function(){
+        this.method1() //method1 will execute at pageload
+    },
+    methods:{
+        method1:function(){
+            let redrect_url = this.$route.query.url_redirect;
+            //console.log(this.$route);
+            //this.$route.go(redrect_url);
+        }
+    },
 }
 </script>
 
