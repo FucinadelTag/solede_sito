@@ -71,7 +71,7 @@
                             Scrivici un messaggio e ti risponderemo il prima possibile.
                         </p>
                         <section>
-                            <form accept-charset="UTF-8" action="https://formkeep.com/f/5fb420fec4c8" method="POST">
+                            <form accept-charset="UTF-8" action="https://formkeep.com/f/d5d9ebc89681" method="POST">
                                 <input type="hidden" id="url_redirect" name="url_redirect" value="https://www.solede.com/grazie">
                                 <div class="field">
                                     <label class="label is-small">Email:</label>
