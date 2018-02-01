@@ -65,7 +65,7 @@
                     </div>
                     <div id="form" class="column">
                         <p class="title is-4">
-                            Contattati
+                            Contattaci
                         </p>
                         <p class="subtitle is-6">
                             Scrivici un messaggio e ti risponderemo il prima possibile.
