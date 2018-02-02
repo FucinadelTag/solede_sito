@@ -18,6 +18,7 @@
                         <div class="navbar-start">
                             <a class="navbar-item" href="https://www.misuratore-pressione.eu/" target="_blank">Misuratori di Pressione</a>
                             <a class="navbar-item" href="https://www.aerosol-online.it/" target="_blank">Aerosol</a>
+                            <a class="navbar-item" href="https://www.defibrillatori-online.com/" target="_blank">Defibrillatori</a>
                         </div>
                     </div>
                 </nav>
@@ -95,7 +96,8 @@
                     <div class="column has-text-centered">
 
                         <div class="has-text-centered">
-                            <strong>Fucina del Tag</strong>
+                            <strong>Solede</strong><br>
+                             Progetto di Fucina del Tag
                                 <br> Via Cislaghi 21
                                 <br>20128 Milano
                                 <br>P.IVA 03201900960
