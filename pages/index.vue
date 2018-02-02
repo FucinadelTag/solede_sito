@@ -8,7 +8,7 @@
                     <i class="fas fa-ship" aria-hidden="true"></i> Importazione dall'estero
                 </h3>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    Abbiamo rapporti con diversi prodotturi di apparecchiature elettromedicali OEM. COn loro ci occupiamo della progettazione e produzione di prodotti innovativi a marchio Solede.
                 </p>
             </div>
 
@@ -17,7 +17,7 @@
                     <i class="far fa-handshake" aria-hidden="true"></i> Partnership con Brand Affermati
                 </h3>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    Collaboriamo con grosse aziende e marchi affermati in italia al fine di commercializzare i loro prodotti sui canali innovativi e altamente performanti.
                 </p>
             </div>
 
@@ -26,7 +26,7 @@
                     <i class="fas fa-calendar-plus" aria-hidden="true"></i> Vendita sui canali B2B
                 </h3>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    Ci occupiamo di distribuire prodotti elettromedicali attraverso una rete di rivenditori che copre tutto il territorio nazionale
                 </p>
             </div>
 
@@ -35,7 +35,7 @@
                     <i class="fas fa-shopping-cart" aria-hidden="true"></i> Vendita sui canali B2C
                 </h3>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    Gestiamo direttamente la vendita di prodotti elettromedicali al dettaglio preoccupandoci di gestire internamente ogni dettaglio. Dalle campagne pubblicitarie alla spedizione! 
                 </p>
             </div>
 
