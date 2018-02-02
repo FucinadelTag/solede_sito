@@ -8,7 +8,7 @@
                     <i class="fas fa-ship" aria-hidden="true"></i> Importazione dall'estero
                 </h3>
                 <p>
-                    Abbiamo rapporti con diversi prodotturi di apparecchiature elettromedicali OEM. COn loro ci occupiamo della progettazione e produzione di prodotti innovativi a marchio Solede.
+                    Abbiamo rapporti con diversi prodotturi di apparecchiature elettromedicali OEM. Con loro ci occupiamo della progettazione e produzione di prodotti innovativi a marchio Solede.
                 </p>
             </div>
 
