@@ -35,7 +35,7 @@
                     <i class="fas fa-shopping-cart" aria-hidden="true"></i> Vendita sui canali B2C
                 </h3>
                 <p>
-                    Gestiamo direttamente la vendita di prodotti elettromedicali al dettaglio preoccupandoci di gestire internamente ogni dettaglio. Dalle campagne pubblicitarie alla spedizione! 
+                    Gestiamo direttamente la vendita di prodotti elettromedicali al dettaglio preoccupandoci di gestire internamente ogni dettaglio. Dalle campagne pubblicitarie alla spedizione!
                 </p>
             </div>
 
@@ -45,7 +45,7 @@
 
         <img src="https://prismic-io.s3.amazonaws.com/smarthealthcare/929d862cc0b0a40acf74f5db111b97d58e45fbe0_cuore.jpg" alt="" />
 
-        <h1 class="title is-2">Come scegliamo i nostri prodotti</h1>
+        <h1 class="title is-2">I prodotti</h1>
 
         <div  class="box columns vendiamo">
             <div class="column content is-8">
