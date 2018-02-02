@@ -98,8 +98,8 @@
                         <div class="has-text-centered">
                             <strong>Solede</strong><br>
                              Progetto di Fucina del Tag
-                                <br> Via Cislaghi 21
-                                <br>20128 Milano
+                                <br> Via Pastrengo 14
+                                <br>20159 Milano
                                 <br>P.IVA 03201900960
 
 
