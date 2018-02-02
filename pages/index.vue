@@ -14,7 +14,7 @@
 
             <div class="column is-half">
                 <h3 class="title is-3">
-                    <i class="far fa-handshake" aria-hidden="true"></i> Partnership con Brand Affermati
+                    <i class="far fa-handshake" aria-hidden="true"></i> Partnership con Marchi Affermati
                 </h3>
                 <p>
                     Collaboriamo con grosse aziende e marchi affermati in italia al fine di commercializzare i loro prodotti sui canali innovativi e altamente performanti.
