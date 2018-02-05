@@ -5,7 +5,7 @@
         <div class="box columns is-multiline">
             <div class="column is-half">
                 <h3 class="title is-3">
-                    <i class="fas fa-ship" aria-hidden="true"></i> Importazione dall'estero
+                    <i class="fas fa-ship" aria-hidden="true"></i> Prodotti a marchio Solede
                 </h3>
                 <p>
                     Abbiamo rapporti con diversi prodottori di apparecchiature elettromedicali OEM. Con loro ci occupiamo della progettazione e produzione di prodotti innovativi a marchio Solede.
