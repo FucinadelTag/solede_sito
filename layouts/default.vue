@@ -105,14 +105,6 @@
 
                         </div>
                         <br>
-                        <div class="has-text-centered">
-                            <i>In partnership con:</i>
-                            <br>Script Media Group Ltd
-                            <br> 90 Leinster Road
-                            <br>Rathmines Dublin 6
-                            <br>Vat IE​3458266BH
-                        </div>
-                        <br>
                         <div>
                                 <a href="/privacy" title="Privacy Policy">Privacy Policy</a>
                         </div>
