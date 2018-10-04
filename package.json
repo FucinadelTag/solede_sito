@@ -5,7 +5,7 @@
   "author": "Lorenzo Caldara <lorenzo.caldara@gmail.com>",
   "private": true,
   "engines": {
-    "node": ">= 8.0.0"
+    "node": ">= 8.3"
   },
   "scripts": {
     "dev": "PORT=3333 nuxt",
