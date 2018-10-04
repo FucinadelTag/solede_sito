@@ -22,20 +22,7 @@
                         </div>
                     </div>
                 </nav>
-                <section class="hero is-info is-bold">
-                    <div class="hero-body">
-                        <div class="container">
-                            <h1 class="title is-1">
-                                Solede - Health Care
-                            </h1>
-                            <h2 class="subtitle">
-                                <i>Soluzioni per la cura della persona</i>
-                            </h2>
-                        </div>
-                    </div>
-                </section>
-
-                <div class="spazio_bianco" />
+                
 
                 <nuxt/>
 
