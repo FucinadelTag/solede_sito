@@ -12,7 +12,7 @@
                 </div>
             </div>
         </section>
-        
+
         <h1 class="title is-2">Cosa Facciamo</h1>
 
         <div class="box columns is-multiline">
@@ -109,7 +109,38 @@
 
         </div>
 
-        <h1 class="title is-2">Alcuni nostri progetti online</h1>
+        <h1 class="title is-2">Alcuni nostri progetti:</h1>
+        <div class="columns testata">
+            <a href="https://www.sosherenow.it/" target="_blank">
+                <div class="box prodotto column has-text-centered">
+                    <h2 class="title is-5">SOS Here Now</h2>
+                    <p class="subtitle is-6">
+                        www.sosherenow.it
+                    </p>
+                    <img src="https://fucinadeltag.cdn.prismic.io/fucinadeltag/392570ae46de95bb34d0046b08e66a75a6c1d1f1_screencapture-sosherenow-it-it-2018-11-08-16_34_32.png" alt="Solede - SOS Here Now" />
+                    <div class="spazio_bianco" />
+                    <div class="has-text-centered">
+                        <button class="button is-link is-outlined">Visita il Sito: www.sosherenow.it</button>
+                    </div>
+                </div>
+            </a>
+            <a href="https://www.defibrillatori-online.com/" target="_blank">
+                <div class="box prodotto column has-text-centered">
+                    <h2 class="title is-5">Defibrillatori (con Iredeem SPA)</h2>
+                    <p class="subtitle is-6">
+                        www.defibrillatori-online.com
+                    </p>
+                    <img src="https://prismic-io.s3.amazonaws.com/fucinadeltag/7541adeffcff0baceb7e1f6b7ee58478082ecfb3_screencapture-defibrillatori-online-1516825724204.png" alt="Solede - Defibrillatori Online" />
+                    <div class="spazio_bianco" />
+                    <div class="has-text-centered">
+                        <button class="button is-link is-outlined">Visita il Sito: www.defibrillatori-online.com</button>
+                    </div>
+
+                </div>
+            </a>
+
+
+        </div>
         <div class="columns testata">
             <a href="https://www.misuratore-pressione.eu/" target="_blank">
                 <div class="box prodotto column has-text-centered">
@@ -138,22 +169,11 @@
                     </div>
                 </div>
             </a>
-            <a href="https://www.defibrillatori-online.com/" target="_blank">
-                <div class="box prodotto column has-text-centered">
-                    <h2 class="title is-5">Defibrillatori (con Iredeem SPA)</h2>
-                    <p class="subtitle is-6">
-                        www.defibrillatori-online.com
-                    </p>
-                    <img src="https://prismic-io.s3.amazonaws.com/fucinadeltag/7541adeffcff0baceb7e1f6b7ee58478082ecfb3_screencapture-defibrillatori-online-1516825724204.png" alt="Solede - Defibrillatori Online" />
-                    <div class="spazio_bianco" />
-                    <div class="has-text-centered">
-                        <button class="button is-link is-outlined">Visita il Sito: www.defibrillatori-online.com</button>
-                    </div>
 
-                </div>
-            </a>
 
         </div>
+
+
 
         <div class="spazio_bianco" />
 

@@ -1,5 +1,5 @@
 module.exports = {
-  head: {
+    head: {
         title: 'Solede Vendita Prodotti Elettromedicali',
         htmlAttrs: {
             lang: 'it',

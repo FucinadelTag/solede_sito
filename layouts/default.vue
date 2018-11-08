@@ -16,13 +16,15 @@
                     </div>
                     <div class="navbar-menu">
                         <div class="navbar-start">
+                            <a class="navbar-item" href="https://www.sosherenow.com/it" target="_blank">SOS Here Now</a>
+                            <a class="navbar-item" href="https://www.defibrillatori-online.com/" target="_blank">Defibrillatori</a>
                             <a class="navbar-item" href="https://www.misuratore-pressione.eu/" target="_blank">Misuratori di Pressione</a>
                             <a class="navbar-item" href="https://www.aerosol-online.it/" target="_blank">Aerosol</a>
-                            <a class="navbar-item" href="https://www.defibrillatori-online.com/" target="_blank">Defibrillatori</a>
+
                         </div>
                     </div>
                 </nav>
-                
+
 
                 <nuxt/>
 
