@@ -111,7 +111,7 @@
 
         <h1 class="title is-2">Alcuni nostri progetti:</h1>
         <div class="columns testata">
-            <a href="https://www.sosherenow.it/" target="_blank">
+            <a href="https://www.sosherenow.it/it" target="_blank">
                 <div class="box prodotto column has-text-centered">
                     <h2 class="title is-5">SOS Here Now</h2>
                     <p class="subtitle is-6">
